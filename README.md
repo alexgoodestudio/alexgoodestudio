@@ -1,3 +1,3 @@
-![githubbanner](https://github.com/alexgoodestudio/alexgoodestudio/assets/118846944/a37ebcdb-3a3f-43a6-b088-c4de2015144e)
+![github_banner](https://github.com/alexgoodestudio/alexgoodestudio/assets/118846944/3a5f5dbb-ae17-43c8-ac3f-dba324620089)
 
 Hi, thanks for visiting! My name is Alex Goode and I'm a full-stack Software Engineer in Hampton, Virginia. Open to working remotely, and willing to relocate for the right position. My skills and technologies include ReactJS, Front and Backend JavaScript, Node JS, Node Express, ES6, SQL, Algorithms, HTML, CSS, Bootstrap, JQuery, AJAX, Responsive Web Design, JSX, and the Adobe Suite. Graduate of Promineo Tech's Front End Software Developer Bootcamp at Community College of Philadelphia and currently enrolled in Thinkful’s Software Engineering Immersive program studying full-stack software engineering.
