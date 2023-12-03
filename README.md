@@ -1,2 +1,4 @@
 ![Artboard 1](https://github.com/alexgoodestudio/alexgoodestudio/assets/118846944/df2fea95-0596-4fc6-8867-29ee6badb8cc)
-My name is Alex Goode and I'm a Full-Stack Software Engineer in Hampton, Virginia. My skills and technologies include ReactJS, Node JS, PostgreSQL, JavaScript, HTML, CSS, Bootstrap, AJAX, Responsive Web Design, and the Adobe Suite. Graduate of Thinkful’s Full-Stack Software Engineering Immersion Program and Promineo Tech's Front End Software Developer Certification Program. 
+Self-motivated Full-Stack Software Engineer specializing in React.js, Node.js, Express.js, and PostgreSQL. Expert in
+team collaboration, problem solving, and critical thinking. Background in graphic design enhances my focus on creating user-focused interfaces. Committed to developing efficient, engaging
+software solutions that enhance user experience.
