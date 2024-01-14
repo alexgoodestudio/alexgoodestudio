@@ -7,6 +7,7 @@ Results-Driven Full-Stack Software Engineer specializing in React, Node, Express
 <h1 align="center">Hi 👋, I'm Alex Goode</h1>
 <h3 align="center">Full-Stack Software Engineer in Virginia.</h3>
 
+
 - 🔭 I’m currently working on [NeatFreak Cleaning Services](https://neatfreak-cleaning-services-front-end.onrender.com/)
 
 - 🌱 I’m currently learning **Redux**
