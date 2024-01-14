@@ -1,10 +1,9 @@
-![Github](https://github.com/alexgoodestudio/alexgoodestudio/assets/118846944/642c69cc-9f54-4654-888c-cf50157becba)
+![Github2](https://github.com/alexgoodestudio/alexgoodestudio/assets/118846944/ab39cdaa-55ac-4721-a40e-0e0a0735adfd)
 
 Passionate Full-Stack Software Engineer specializing in React, Node, Express, and PostgreSQL with 2 years of experience. My professional background, including roles at Paychex, a leadership position with H&M and as a graphic designer, has honed my skills in analytical thinking, customer engagement, and technical adaptation. Committed to continuous growth. Certified in Full-Stack Software Engineering through Thinkful (Chegg Skills) and Front-End Software Development with Promineo Tech. Background in graphic design enhances my focus on creating user-focused interfaces.
 
 - 🌐 [Software Engineering Portfolio](https://alexgoodestudio.com)
 - 🔗 [Linkedin](https://www.linkedin.com/in/alexgoodestudio/)
-  
 <h1 align="center">Hi 👋, I'm Alex Goode</h1>
 <h3 align="center">Passionate Full-Stack Software Engineer in Virginia.</h3>
 
