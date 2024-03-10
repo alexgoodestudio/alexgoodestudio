@@ -10,7 +10,7 @@ Software Engineer. Adaptable working in front and back-end; rooted in strong fun
 
 - 🔭 I’m currently working on [NeatFreak Cleaning Services](https://neatfreak-cleaning-services-front-end.onrender.com/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently working towards obtaining my **AWS Cloud Developer** Certification
 
 - 👨‍💻 All of my projects are available at [alexgoodestudio.com](alexgoodestudio.com)
 
