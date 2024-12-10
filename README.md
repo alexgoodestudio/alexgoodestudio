@@ -2,7 +2,7 @@
 
 Software Engineer. Adaptable working in front and back-end; rooted in strong fundamentals of computer science contributing to cleaner code optimization and performance. Certified by Thinkful's Full- Stack Software Engineering Immersion Program (Chegg Skills), and Promineo Tech's Front-End Software Development Program. Committed to continuous growth. Flexible and open to relocation for in-person and hybrid roles. US Citizen. 
 
-- 🌐 [Software Engineering Portfolio](https://alexgoodestudio.com)
+
 - 🔗 [Linkedin](https://www.linkedin.com/in/alexgoodestudio/)
 <h1 align="center">Hi 👋, I'm Alex Goode</h1>
 <h3 align="center">Full-Stack Software Engineer in Virginia.</h3>
