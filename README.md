@@ -7,9 +7,6 @@ Software Engineer. Adaptable working in front and back-end; rooted in strong fun
 <h1 align="center">Hi 👋, I'm Alex Goode</h1>
 <h3 align="center">Full-Stack Software Engineer in Virginia.</h3>
 
-
-- 🔭 I’m currently working on [NeatFreak Cleaning Services](https://neatfreak-cleaning-services-front-end.onrender.com/)
-
 - 🌱 I’m currently working towards obtaining my **AWS Cloud Developer** Certification
 
 - 👨‍💻 All of my projects are available at [alexgoodestudio.com](alexgoodestudio.com)
