@@ -6,7 +6,7 @@ Software Engineer experienced in Full Stack Development and DevOps with strong b
 - 🔗 [Linkedin](https://www.linkedin.com/in/alexgoodestudio/)
 - ⭐️ [Portfolio](https://big-web-frontend.onrender.com/#/)
 <h1 align="center">Hi 👋, I'm Alex Goode</h1>
-<h3 align="center">Full-Stack Dev in Blythewood, South Carolina.</h3>
+<h3 align="center">Full-Stack Dev in Columbia, South Carolina.</h3>
 
 - 📫 How to reach me **alexgoode2@gmail.com**
 
