@@ -21,11 +21,12 @@ Software Engineer experienced in Full Stack Development and DevOps with strong b
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="mssql" width="40" height="40" style="background:white; border-radius:6px; padding:2px"/>
 </a>
+
 <a href="https://gsap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" alt="gsap" width="40" height="40"/>
+  <img src="https://greensock.com/uploads/monthly_2020_03/greensock-logo.svg.7bd582f66df04d0a3f4430bdb48983e3.svg" alt="gsap" width="40" height="40"/>
 </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
