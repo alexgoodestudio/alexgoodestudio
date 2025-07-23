@@ -26,7 +26,7 @@ Software Engineer experienced in Full Stack Development and DevOps with strong b
 </a>
 
 <a href="https://gsap.com" target="_blank" rel="noreferrer">
-  <img src="https://greensock.com/uploads/monthly_2020_03/greensock-logo.svg.7bd582f66df04d0a3f4430bdb48983e3.svg" alt="gsap" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-D3100C45E3-seeklogo.com.svg" alt="gsap" width="40" height="40"/>
 </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
