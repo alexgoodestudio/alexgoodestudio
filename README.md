@@ -1,6 +1,6 @@
 ![Github2](https://github.com/alexgoodestudio/alexgoodestudio/assets/118846944/ab39cdaa-55ac-4721-a40e-0e0a0735adfd)
 
-Software Engineer experienced in Full Stack Development and DevOps with strong background in Customer Service roles. Well-structured in approach to complex coding problems. Completed Thinkful's (Chegg Skills) Full-Stack Software Engineering Immersion Program, and Promineo Tech's Front-End Software Development Certification Program. Passionate about keeping up with latest tech and design trends. Flexible and open to relocation for in-person, hybrid roles. US Citizen.
+Software Engineer experienced in Full Stack Development with strong background in Graphic Design. Well-structured in approach to complex coding problems. Completed Thinkful's (Chegg Skills) Full-Stack Software Engineering Immersion Program, and Promineo Tech's Front-End Software Development Certification Program.
 
 
 - 🔗 [Linkedin](https://www.linkedin.com/in/alexgoodestudio/)
