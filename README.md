@@ -4,6 +4,8 @@ Software Engineer experienced in Full Stack Development with strong background i
 
 
 - 🔗 [Linkedin](https://www.linkedin.com/in/alexgoodestudio/)
+- 💪🏽 [Made Right Studio](https://maderight.studio/)
+- ☺️ [About Me](https://alexgoode.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Alex Goode</h1>
 <h3 align="center">Full-Stack Dev in Columbia, South Carolina.</h3>
